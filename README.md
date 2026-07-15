@@ -4,10 +4,6 @@ A lightweight Windows system tray app that shows your Claude (Anthropic) usage a
 
 Hover the Claude logo in the notification area and it swaps to your current session usage percentage, with a compact popup showing a live countdown to your next reset:
 
-```text
-76% | Reset in 3h 24m
-```
-
 Move the pointer away and the Claude logo returns. No dashboards, no browser tabs, no surprise "you've reached your limit" walls mid-task.
 
 <p align="center">
