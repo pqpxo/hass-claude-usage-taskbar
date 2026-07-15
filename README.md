@@ -1,4 +1,8 @@
-# Claude Usage Tray
+<p align="center">
+  <img src="claudetaskbarlogo.png" alt="hass-claude-usage-taskbar" width="248" />
+</p>
+
+# Claude Usage Taskbar
 
 A lightweight Windows system tray app that shows your Claude (Anthropic) usage at a glance, powered by Home Assistant.
 
